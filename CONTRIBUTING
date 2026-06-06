@@ -1,0 +1,102 @@
+# Contribuindo com o JovemAcesso
+
+Obrigado por seu interesse em contribuir com o JovemAcesso!
+
+Nosso objetivo é construir uma plataforma open source que conecte jovens candidatos a oportunidades de aprendizagem profissional, estágio e primeiro emprego.
+
+---
+
+## Como Contribuir
+
+### 1. Reportar Bugs
+
+Caso encontre algum problema:
+
+- Verifique se já existe uma Issue aberta.
+- Descreva detalhadamente o erro.
+- Informe os passos para reproduzir o problema.
+
+### 2. Sugerir Melhorias
+
+Aceitamos sugestões relacionadas a:
+
+- Interface do usuário
+- Segurança
+- Performance
+- Acessibilidade
+- Novas funcionalidades
+
+### 3. Contribuir com Código
+
+1. Faça um Fork do projeto.
+2. Crie uma nova branch.
+
+```bash
+git checkout -b minha-feature
+```
+
+3. Realize suas alterações.
+
+4. Faça commit.
+
+```bash
+git commit -m "Adiciona nova funcionalidade"
+```
+
+5. Envie para seu fork.
+
+```bash
+git push origin minha-feature
+```
+
+6. Abra um Pull Request.
+
+---
+
+## Padrões de Código
+
+- Código limpo e documentado.
+- Comentários quando necessário.
+- Nomes de variáveis significativos.
+- Não enviar código sem testes básicos.
+
+---
+
+## Processo de Revisão
+
+Todos os Pull Requests serão avaliados pelos mantenedores do projeto.
+
+Critérios:
+
+- Qualidade do código
+- Segurança
+- Compatibilidade
+- Documentação
+
+---
+
+## Código de Conduta
+
+Todos os participantes devem agir com respeito, cordialidade e profissionalismo.
+
+Não serão tolerados:
+
+- Discriminação
+- Assédio
+- Linguagem ofensiva
+- Comportamentos tóxicos
+
+---
+
+## Nossa Comunidade
+
+O JovemAcesso acredita que o conhecimento deve ser compartilhado e que a colaboração é essencial para o desenvolvimento de soluções que gerem impacto social positivo.
+
+Obrigado por fazer parte deste projeto!
+
+
+
+
+
+
+
