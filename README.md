@@ -10,8 +10,8 @@ O objetivo é facilitar o acesso ao mercado de trabalho para jovens, oferecendo 
 
 - Cadastro de empresas
 - Cadastro de candidatos
-- Publicação de vagas
-- Busca de vagas
+- Publicação de vagas 
+- Busca de vagas 
 - Candidatura online
 - Painel administrativo
 
