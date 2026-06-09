@@ -1,8 +1,8 @@
-# JovemAcesso
+# OpenTalent
 
 ## Sobre o Projeto
 
-O JovemAcesso é uma plataforma Open Source desenvolvida para conectar jovens candidatos a oportunidades de Programa de Aprendizagem, estágio e primeiro emprego.
+A OpenTalent é uma plataforma Open Source desenvolvida para conectar jovens candidatos a oportunidades de Programa de Aprendizagem, estágio e primeiro emprego.
 
 O objetivo é facilitar o acesso ao mercado de trabalho para jovens, oferecendo uma plataforma simples, gratuita e acessível para empresas e candidatos.
 
